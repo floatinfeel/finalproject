@@ -1,0 +1,22 @@
+body{
+	background-color: white;
+	background-repeat: no-repeat;
+
+
+}
+
+#welcome, img{
+
+	display: flex;
+	justify-content: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #060e1f;
+}
+
+#animate{
+width:450px;
+height:450px;
+
+justify-content: center;
+
+
